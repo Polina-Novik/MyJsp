@@ -1,0 +1,31 @@
+h1 {
+    color: #5d0774;
+    font-family: "Comic Sans MS";
+    font-size: 50px;
+    margin: 10px 500px 10px ;
+}
+body {
+    background-color: #7dffbe;
+}
+
+input[type=text] {
+    width: 40%;
+    padding: 5px 30px;
+    margin: 5px 400px;
+    box-sizing: border-box;
+}
+input[type=password] {
+    width: 40%;
+    padding: 5px 30px;
+    margin: 5px 400px;
+    box-sizing: border-box;
+}
+input[type=submit] {
+    margin: 5px 600px;
+}
+input[type=submit]:hover {
+    background-color: #74c94b;
+    width: 20%;
+    padding: 10px 10px;
+    margin: 5px 500px;
+}
